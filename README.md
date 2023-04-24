@@ -1,6 +1,6 @@
 # Python Orientado à Objetos com Vídeos de 1 Minuto 💻
 
-Este repositório contém os códigos de todas as aulas da série "Python do Zero com Vídeos de 1 Minuto". Cada vídeo da série apresenta um conceito ou técnica de programação em Python, explicado de forma clara e objetiva em apenas 1 minuto.
+Este repositório contém os códigos de todas as aulas da série "Python Orientado à Objetos com Vídeos de 1 Minuto". Cada vídeo da série apresenta um conceito ou técnica de programação em Python, explicado de forma clara e objetiva em apenas 1 minuto.
 
 Os códigos de cada aula estão organizados em pastas numeradas, correspondentes aos números dos vídeos na série. Cada pasta contém o arquivo do código-fonte em Python, bem como quaisquer outros arquivos necessários para executar o código.
 
