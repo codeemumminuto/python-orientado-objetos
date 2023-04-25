@@ -13,3 +13,16 @@ a área de cada um dos círculos criados.
 '''
 
 # Deixa aí nos comentários
+
+class Circulo:
+    def __init__(self, raio):
+        self.raio = raio
+        self.area = raio*raio*3.14
+
+print("Círculo 1:")
+c1 = Circulo(3)
+print(f"Raio: {c1.raio}\nÁrea: {c1.area}")
+
+print("\nCírculo 2:")
+c2 = Circulo(2.50)
+print(f"Raio: {c2.raio}\nÁrea: {c2.area}")

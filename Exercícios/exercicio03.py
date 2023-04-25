@@ -15,3 +15,21 @@ notas dos dois alunos criados.
 '''
 
 # Deixa nos comentários
+
+class Aluno:
+    def __init__(self, nome, idade, nota):
+        self.nome = nome
+        self.idade = idade
+        self.nota = nota
+
+print("Aluno 1:")
+a1 = Aluno("João", 25, 7.5)
+print(f"Nome: {a1.nome}\nIdade: {a1.idade}\nNota: {a1.nota}")
+
+print("\nAluno 2:")
+a2 = Aluno("Maria", 19, 6.3)
+print(f"Nome: {a2.nome}\nIdade: {a2.idade}\nNota: {a2.nota}")
+
+print("\nMédia:")
+media = (a1.nota + a2.nota) / 2
+print(f"A média é {media}")
