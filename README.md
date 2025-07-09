@@ -12,8 +12,6 @@ Divirta-se aprendendo Python!
 
 ## Links úteis 🔗
 
-Apoie @codeemumminuto: https://livepix.gg/codeemumminuto
-
 <br>
 PDF - PYTHON BÁSICO: https://hotmart.com/pt-br/marketplace/produtos/python-basico-anotacoes-exemplos-exercicios-e-projetos/R81450812K
 <br>
